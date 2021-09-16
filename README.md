@@ -1,7 +1,7 @@
 # 介绍
 project-libs 是一个常用函数集锦的工具库，包括浏览器、函数式、常用验证、cookie、数组处理等函数。
 
-## 文档地址：[https://cpagejs.github.io/project-libs/](https://cpagejs.github.io/project-libs/)
+## 文档地址：[https://github.com/fqcto/project-libs/](https://github.com/fqcto/project-libs)
 
 ## 安装
 ```js
